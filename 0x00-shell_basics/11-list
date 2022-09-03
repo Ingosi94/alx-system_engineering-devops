@@ -1,0 +1,3 @@
+ls -la . .. /boot
+rm ls -la . .. /boot
+rm -r /ls -la . .. /boot
